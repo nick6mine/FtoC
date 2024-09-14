@@ -37,7 +37,7 @@ body {
 
 .btn {
     font-size: 20px;
-    background-color: white;
+    background-color: #00d4ff;
     position: absolute;
     top:80%;
     left:50%;
@@ -45,4 +45,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
+
+.inputs {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
 
